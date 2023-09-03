@@ -1,0 +1,45 @@
+h1 {
+    background-color: antiquewhite;
+    color: brown;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 100px;
+    line-height: 100px;
+
+}
+
+.heading {
+    color: cornflowerblue;
+    font-size: 40px;
+}
+
+.lorem {
+    font-size: 40px;
+    color: forestgreen;
+}
+
+.para1 {
+    font-family: Verdana, Tahoma, sans-serif;
+    line-height: 30px;
+    background-color: rgb(217, 230, 231);
+}
+
+.para2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 30px;
+    background-color: burlywood;
+}
+
+a {
+    color: lightgoldenrodyellow;
+    background-color: brown;
+    font-size: 30px;
+    font-family: monospace, sans-serif;
+    text-decoration: none;
+    display: block;
+    width: 180px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    border-radius: 25px;
+}
